@@ -1,2 +1,1 @@
 # css-stripes
-pe
