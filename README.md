@@ -1,1 +1,1 @@
-# css-stripe
+# css-stripes
